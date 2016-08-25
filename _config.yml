@@ -1,0 +1,28 @@
+name: SheWouldRead
+favicon: null
+layout_spectrum: 0.3732288477476686
+typography_spectrum: 0.17925554513931274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.889940183609724
+  lightness: 0.6378475448582321
+  saturation: 0.3673657774925232
+  rhythmicContrast: 0.5923817183356732
+purpose: []
